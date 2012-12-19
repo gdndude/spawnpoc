@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SpawnpocAssets
 
 TODO: Write a gem description
@@ -27,3 +28,9 @@ TODO: Write usage instructions here
 3. Commit your changes (`git commit -am 'Added some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+=======
+spawnpoc
+========
+
+spawnpoc
+>>>>>>> 927a28b7a461dfcde8d9955454915047c2ecd979
