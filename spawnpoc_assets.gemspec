@@ -2,10 +2,10 @@
 require File.expand_path('../lib/spawnpoc_assets/version', __FILE__)
 
 Gem::Specification.new do |gem|
-  gem.authors       = ["TODO: Write your name"]
-  gem.email         = ["TODO: Write your email address"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.authors       = ["Greg Newton"]
+  gem.email         = ["gdndude@gmail.com"]
+  gem.description   = %q{This gem doesn't do anything but it's still cool}
+  gem.summary       = %q{What can you say about nothing, there's nothing to be said}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($\)
