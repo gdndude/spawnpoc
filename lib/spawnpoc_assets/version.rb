@@ -1,4 +1,4 @@
 module SpawnpocAssets
-  VERSION = "0.0.1"
+   VERSION ="$VERSION"
 end
 
